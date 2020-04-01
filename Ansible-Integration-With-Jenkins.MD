@@ -1,6 +1,6 @@
 # Ansible integration with Jenkins
 
-Follow this on **[YouTube](https://www.youtube.com/watch?v=nE4b9mW2ym0)**
+Follow this on **[YouTube]()**
 
 ### Prerequisites:
 1. Ansible server **[Get Help Here]()**
